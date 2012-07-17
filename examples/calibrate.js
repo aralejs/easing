@@ -1,10 +1,4 @@
-seajs.config({
-    alias: {
-        'raphael': 'http://modules.seajs.org/raphael/2.1.0/raphael.js'
-    }
-})
-
-seajs.use(['jquery', 'raphael', '../src/easing'], function($, Raphael) {
+seajs.use(['jquery', '#raphael/2.1.0/raphael', '../src/easing'], function($, Raphael) {
 
     var easings = [
         [

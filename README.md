@@ -8,7 +8,7 @@ Easing 是动画的平滑函数扩展包。由于 jQuery 自带的比较少，�
 
 ## 模块依赖
 
- - [jquery](jquery/README.md)
+- jquery
 
 
 ## 使用说明
@@ -36,7 +36,7 @@ $('#demo').animate({
 
 ## 平滑函数曲线图
 
- - [examples/easing.html](http://aralejs.org/lib/easing/examples/easing.html)
+ - [examples/easing.html](./examples/index.html)
 
 
 ## 交流讨论
