@@ -1,7 +1,10 @@
 {
     "name": "easing",
     "version": "0.9.3",
-    "dist": {
+    "dependencies": {
+        "jquery":"jquery/1.7.2/jquery"
+    },
+    "output": {
         "easing.js": ["easing.js"]
     }
 }
