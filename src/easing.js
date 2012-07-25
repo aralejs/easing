@@ -184,7 +184,7 @@ define(function(require, exports, module) {
 
 
     // 也可以直接通过 jQuery.easing 来使用
-    var $ = require('jquery');
+    var $ = require('$');
     $.extend($.easing, Easing);
 
 });

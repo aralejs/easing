@@ -1,4 +1,4 @@
-define("#easing/0.9.3/easing-debug", ["#jquery/1.7.2/jquery-debug"], function(require, exports, module) {
+define("#easing/0.9.3/easing-debug", ["$-debug"], function(require, exports, module) {
 
     // Based on Easing Equations (c) 2003 Robert Penner, all rights reserved.
     // This work is subject to the terms in
@@ -184,7 +184,7 @@ define("#easing/0.9.3/easing-debug", ["#jquery/1.7.2/jquery-debug"], function(re
 
 
     // 也可以直接通过 jQuery.easing 来使用
-    var $ = require('#jquery/1.7.2/jquery-debug');
+    var $ = require('$-debug');
     $.extend($.easing, Easing);
 
 });
