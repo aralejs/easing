@@ -42,5 +42,5 @@ $('#demo').animate({
 ## 交流讨论
 
 欢迎创建
-[GitHub Issue](https://github.com/alipay/arale/issues/new)
+[GitHub Issue](https://github.com/aralejs/easing/issues)
 来提交反馈。
