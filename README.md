@@ -36,7 +36,7 @@ $('#demo').animate({
 
 ## 平滑函数曲线图
 
- - [examples/easing.html](./examples/index.html)
+ - [examples/easing.html](http://aralejs.org/easing/examples/)
 
 
 ## 交流讨论
