@@ -1,6 +1,7 @@
 {
     "name": "easing",
     "version": "1.0.0",
+    "tag": "utility",
     "dependencies": {
         "$":"$"
     },
