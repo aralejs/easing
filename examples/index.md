@@ -1,3 +1,9 @@
+# easing 曲线
+
+- order: 1
+
+---
+
 <style>
 #content {
     width: 499px;
@@ -25,4 +31,5 @@
 </style>
 
 <div id="content"></div>
+
 <script src="calibrate.js"></script>
