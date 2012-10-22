@@ -27,14 +27,3 @@ $('#demo').animate({
 });
 ```
 
-
-## 平滑函数曲线图
-
- - [examples/easing.html](http://aralejs.org/easing/examples/)
-
-
-## 交流讨论
-
-欢迎创建
-[GitHub Issue](https://github.com/aralejs/easing/issues)
-来提交反馈。
