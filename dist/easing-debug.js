@@ -1,4 +1,4 @@
-define("#easing/1.0.0/easing-debug", ["$-debug"], function(require, exports, module) {
+define("arale/easing/1.0.0/easing-debug", ["$-debug"], function(require, exports, module) {
 
     // Based on Easing Equations (c) 2003 Robert Penner, all rights reserved.
     // This work is subject to the terms in
