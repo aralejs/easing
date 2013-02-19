@@ -3,6 +3,8 @@
 
 ---
 
+[![Build Status](https://secure.travis-ci.org/aralejs/easing.png)](https://travis-ci.org/aralejs/easing)
+
 Easing 是动画的平滑函数扩展包。由于 jQuery 自带的比较少，通过这个包可以增加更多平滑函数。
 
 ---
