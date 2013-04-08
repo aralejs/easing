@@ -1,4 +1,4 @@
-seajs.use(['$', 'gallery/raphael/2.1.0/raphael', '../src/easing'], function($, Raphael) {
+seajs.use(['$', 'gallery/raphael/2.1.0/raphael', 'easing'], function($, Raphael) {
 
     var easings = [
         [
