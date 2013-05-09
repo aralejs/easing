@@ -1,6 +1,7 @@
 define(function(require) {
 
     var $ = require('$');
+    var expect = require('expect');
 
     describe('easing', function() {
 

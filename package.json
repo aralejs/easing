@@ -1,8 +1,10 @@
 {
     "name": "easing",
-    "root": "arale",
+    "family": "arale",
     "version": "1.0.0",
-    "tag": "utility",
+    "keywords": [
+        "utility"
+    ],
     "description": "Easing 是动画的平滑函数扩展包。由于 jQuery 自带的比较少，通过这个包可以增加更多平滑函数。",
     "homepage": "http://aralejs.org/easing/",
     "repository": {
@@ -12,10 +14,10 @@
     "bugs": {
         "url": "https://github.com/aralejs/easing/issues"
     },
-    "dependencies": {
-        "$":"$"
-    },
-    "output": {
-        "easing.js": ["easing.js"]
+    "spm": {
+        "alias": {
+            "$":"$"
+        },
+        "output": ["easing.js"]
     }
 }
