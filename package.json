@@ -11,6 +11,11 @@
         "type": "git",
         "url": "https://github.com/aralejs/easing.git"
     },
+    "author": "偏右 <afc163@gmail.com>",
+    "maintainers": [
+        "偏右 <afc163@gmail.com>",
+        "贯高 <sakura9515@gmail.com>"
+    ],
     "bugs": {
         "url": "https://github.com/aralejs/easing/issues"
     },
